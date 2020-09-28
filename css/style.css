@@ -265,6 +265,11 @@ color:rgba(200, 47, 0, 0.774);
   
 }
 
+.iconGithub:hover{
+  color:white ;
+  text-decoration: none;
+}
+
 .fa-download{
   color:rgba(200, 47, 0, 0.774); 
 }
